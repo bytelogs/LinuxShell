@@ -4,7 +4,7 @@
 # Author: Balich
 # DESC: 使用mysqldump 备份MySQL数据库
 
-source function library.
+# source function library.
 . /etc/init.d/functions
 
 
@@ -56,3 +56,7 @@ run(){
 
 # 执行脚本
 run
+
+
+
+
