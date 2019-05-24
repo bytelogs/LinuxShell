@@ -11,8 +11,6 @@ linux 日常使用的shell脚本
 
 - [`clean_folder.sh`](https://github.com/bytelogs/LinuxShell/blob/master/clean_folder.sh) 用于清理指定目录下的文件目录数量，保留设定的值的数量
 
-- [`zabbbix_check_mysql.sh`](https://github.com/bytelogs/LinuxShell/blob/master/zabbbix_check_mysql/zabbbix_check_mysql.sh) 用于zabbix自定义监控MySQL脚本
-
-- [`MySQL_zbx_export_templates.xml`](https://github.com/bytelogs/LinuxShell/blob/master/zabbbix_check_mysql/MySQL_zbx_export_templates.xml) 用于zabbix监控MySQL模板
+- [`zabbbix_check_mysql.sh`](https://github.com/bytelogs/LinuxShell/blob/master/zabbbix_check_mysql/zabbbix_check_mysql.sh) 用于zabbix自定义监控MySQL脚本，监控模板为    [`MySQL_zbx_export_templates.xml`](https://github.com/bytelogs/LinuxShell/blob/master/zabbbix_check_mysql/MySQL_zbx_export_templates.xml) 
 
 

@@ -10,7 +10,7 @@
 
 # USER: 在zabbix上添加自定义监控项目
 #       UserParameter=mysql.status[*],/bin/bash /var/lib/zabbix/check_mysql.sh $1
-# 最后在zabbix web 上添加模板
+# 最后在zabbix web 上添加模板 MySQL_zbx_export_templates.xml
 
 export PATH=/usr/local/mysql/bin:$PATH
 
