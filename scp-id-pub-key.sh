@@ -1,6 +1,6 @@
 #!/bin/bash
 # 
-# FileName: scp-id-pub.sh
+# FileName: scp-id-pub-key.sh
 # DATE: 2019-06-13
 # Author: Balich
 # DESC: 将当前用户下的公钥(id_rsa.pub)拷贝到远程主机
@@ -13,7 +13,7 @@ HOSTLIST="
 ## 远程主机用户
 USER="root"
 ## 远程主机用户密码
-PASSWD="38039260@XINsec.Com.cn"
+PASSWD="root"
 
 ## 自动交互执行程序
 for HOST in $HOSTLIST;do
